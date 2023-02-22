@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Courses in Coursera**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Wordpress|PHP|JavaScript**
 
 - 📫 How to reach me **Kavindaonline321@gmail.com**
 
